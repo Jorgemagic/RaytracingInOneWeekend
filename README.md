@@ -1,9 +1,10 @@
 # Raytracing In One Weekend .NETCore CSharp
-Implementation of the Peter Shirley's book in .NETCore CSharp
+Implementation of the Peter Shirley's [book](https://raytracing.github.io/books/RayTracingInOneWeekend.html) in .NETCore CSharp
 
 ## Related Work
 
 - [Raytracing the Next Week](https://github.com/Jorgemagic/RaytracingTheNextWeek)
+- [Raytracing the rest of your life](https://github.com/Jorgemagic/RaytracingTheRestOfYourLife)
 
 ### [01 PPM Image Format](01-PPMImageFormat/)
 
